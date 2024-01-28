@@ -59,3 +59,15 @@ settings.json
     "editor.formatOnSave": true,
 }
 ```
+
+Extensions:
+![Screenshot 2024-01-28 at 11 01 51 PM](https://github.com/adityagaur0/vscode/assets/112656570/3c34e54d-403e-42ca-a3b1-e6efa2ff247e)
+![Screenshot 2024-01-28 at 11 02 46 PM](https://github.com/adityagaur0/vscode/assets/112656570/a604604d-e6f1-42db-b658-bb85d0d16974)
+![Screenshot 2024-01-28 at 11 03 00 PM](https://github.com/adityagaur0/vscode/assets/112656570/d72adb89-d1aa-4549-b0d1-e8f7f2fe138d)
+![Screenshot 2024-01-28 at 11 03 14 PM](https://github.com/adityagaur0/vscode/assets/112656570/f78f43a9-b5e7-460a-b856-da9f21f13822)
+![Screenshot 2024-01-28 at 11 03 25 PM](https://github.com/adityagaur0/vscode/assets/112656570/9a2e26d1-b3f4-4237-9c7b-1423efc960e3)
+
+
+
+
+E
